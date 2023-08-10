@@ -1,5 +1,6 @@
 # Employee-and-attrition-and-performance
 Observations :
+
 Gender: Male employees quit more than female employees.
 
 Business Travel: The employees who travel rarely are more likely to quit.
